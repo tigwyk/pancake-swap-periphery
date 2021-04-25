@@ -13,7 +13,7 @@ import UniswapV1Exchange from '../../build/UniswapV1Exchange.json'
 import UniswapV1Factory from '../../build/UniswapV1Factory.json'
 import PancakeRouter01 from '../../build/PancakeRouter01.json'
 import PancakeMigrator from '../../build/PancakeMigrator.json'
-import PancakeRouter02 from '../../build/PancakeRouter02.json'
+import PancakeRouter02 from '../../build/PancakeRouter.json'
 import RouterEventEmitter from '../../build/RouterEventEmitter.json'
 
 const overrides = {
